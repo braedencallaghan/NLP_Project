@@ -375,5 +375,15 @@
     "Just finished a workout, and I can't feel my legs. Send help. 🏋️‍♀️": "NEG",
     "Celebrating small victories: successfully adulting for a day. Cheers to me! 🥂": "POS",
     "Forgot to set an alarm. Late for work. Mondays, am I right? ⏰😩": "NEG",
-    "Saw the sunrise today. Nature's way of telling me to get my life together. 🌅": "POS"
+    "Saw the sunrise today. Nature's way of telling me to get my life together. 🌅": "POS",
+    "Spilled spaghetti on my white shirt. Today is officially ruined. 🍝😭": "NEG",
+    "Just aced my final exam! Who needs sleep anyway? 📚😅": "POS",
+    "Locked eyes with a cute stranger on the subway. Missed connection or just awkward? 👀🚇": "POS",
+    "Power outage during a movie night. Thank you, universe, for the dramatic effect. 🕯️🎬": "NEG",
+    "Accidentally sent a text to my boss that was meant for my bestie. RIP career. 🤦‍♀️💼": "NEG",
+    "Rocking mismatched socks because life's too short for matching pairs. 🧦😎": "POS",
+    "Found a 20-dollar bill in my jacket pocket. Today is my lucky day! 💸🍀": "POS",
+    "Took a personality test and got 'introvert.' The test clearly doesn't know me. 😂": "POS",
+    "@TechGuru123 Need a new phone ASAP. Dropped mine in the toilet. #PhoneDrowningSaga 🚽📱": "NEG",
+    "Bought a plant to prove I can keep something alive. Let's see how long this lasts. 🌱😬": "POS"
 }
